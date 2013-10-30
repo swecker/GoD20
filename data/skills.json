@@ -1,0 +1,15 @@
+{
+    "Acrobatics": {
+        "Name": "Acrobatics",
+        "Ability": "Dexterity",
+        "Score": 0,
+        "ClassSkill": false,
+        "Restricted": false,
+        "Trainable": true,
+        "Ranks": 0,
+        "Ranks": 0,
+        "AbilityMod": 0,
+        "MiscBonus": 0
+    }
+}
+
